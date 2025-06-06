@@ -5,8 +5,8 @@ from pygments.lexers import get_lexer_by_name, guess_lexer
 from pygments.formatters import HtmlFormatter
 import difflib
 import asyncio
-from dotenv import load_dotenv
-import os
+# from dotenv import load_dotenv
+# import os
 import re # Import regex module
 import html # Import html module for unescaping
 # Import the Google Generative AI client library
